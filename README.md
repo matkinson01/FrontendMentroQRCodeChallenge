@@ -1,4 +1,4 @@
-# FrontendMentroQRCodeChallenge
+# FrontendMentorQRCodeChallenge
  QR Code challenge from Frontend Mentor
 # Frontend Mentor - QR code component solution
 
@@ -26,7 +26,7 @@ Full screen desktop version screenshot
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here]()
 
 ## My process
 Process for this one. 
