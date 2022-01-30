@@ -58,4 +58,4 @@ How to do a Frontend mentor challenge. As far as css goes, its small but the bor
 
 ## Acknowledgments
 
-This was 100% my code, but acknowledgements go to Frontenf mentor for posting the challenge, and giving me some things to work on for a profile. 
+This was 100% my code, but acknowledgements go to Frontend mentor for posting the challenge, and giving me some things to work on for a profile. 
