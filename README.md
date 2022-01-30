@@ -59,7 +59,7 @@ How to do a Frontend mentor challenge. As far as css goes, its small but the bor
 ```
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/matkinson01)
+- Frontend Mentor - [@matkinson01](https://www.frontendmentor.io/profile/matkinson01)
 
 ## Acknowledgments
 
