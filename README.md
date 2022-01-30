@@ -8,6 +8,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
+  -[Links](#Link)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -22,6 +23,9 @@ This is the first, and most basic challenge i saw on Frontend Mentor. I plan to 
 ![](./screenshot/Screenshot-Frontend-Mentor-QR-code-component.png)
 
 Full screen desktop version screenshot
+### Links
+
+- Solution URL: [GitHubPages](https://matkinson01.github.io/FrontendMentroQRCodeChallenge/)
 
 ## My process
 Process for this one. 
